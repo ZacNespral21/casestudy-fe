@@ -6,7 +6,7 @@ Download the API first:
 
 Once downloaded, perform the steps below to get the api up and runing
 ```bash
-  git clone https://github.com/ZacNespral21/engmd-casestudy-api.git
+  git clone https://github.com/ZacNespral21/casestudy-api.git
 
   cd engmd-casestudy-api
 
@@ -24,7 +24,7 @@ The localhost url will be http://localhost:8080
 Once the api is up, download and run the frontend
 
 ```bash
-  git clone https://github.com/ZacNespral21/engmd-casestudy-fe.git
+  git clone https://github.com/ZacNespral21/casestudy-fe.git
 
   cd engmd-casestudy-fe
 
