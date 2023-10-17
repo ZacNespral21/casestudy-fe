@@ -8,7 +8,7 @@ Once downloaded, perform the steps below to get the api up and runing
 ```bash
   git clone https://github.com/ZacNespral21/casestudy-api.git
 
-  cd engmd-casestudy-api
+  cd casestudy-api
 
   npm install 
 
@@ -26,7 +26,7 @@ Once the api is up, download and run the frontend
 ```bash
   git clone https://github.com/ZacNespral21/casestudy-fe.git
 
-  cd engmd-casestudy-fe
+  cd casestudy-fe
 
   npm run install
 
